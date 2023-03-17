@@ -1,0 +1,7 @@
+{
+  "main": "game.js",
+  "type": "module",
+  "dependencies": {
+    "secure-random": "^1.1.2"
+  }
+}
